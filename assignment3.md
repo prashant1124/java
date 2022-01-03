@@ -23,5 +23,6 @@ Character stream is used to read and write a single character of data.
 
 All the character stream classes are derived from base abstract classes Reader and Writer.
 
-ZIP FILE STREAM
+ZIP FILE STREAM:
+
 ZipInputStream is a Java class that implements an input stream filter for reading files in the ZIP file format. It has support for both compressed and uncompressed entries. ZIP is an archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed.
